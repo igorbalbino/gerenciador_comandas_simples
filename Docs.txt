@@ -1,0 +1,15 @@
+INICIAÇÃO:
+
+npm install -g vue-cli
+
+//FOI UTILIZADA OPCAO 1
+0 - npm i vue-cli@latest
+1 - npm i @vue/cli
+
+//FOI UTILIZADO O COMANDO DE BAIXO
+vue create gerenciador_comandas_simples
+npx @vue/cli create gerenciador_comandas_simples
+
+DEPENDENCIAS
+npx @vue/cli add vuetify
+npm i -s vue-the-mask
