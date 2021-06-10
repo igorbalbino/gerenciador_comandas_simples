@@ -13,3 +13,4 @@ npx @vue/cli create gerenciador_comandas_simples
 DEPENDENCIAS
 npx @vue/cli add vuetify
 npm i -s vue-the-mask
+npm i -s vue-lodash
